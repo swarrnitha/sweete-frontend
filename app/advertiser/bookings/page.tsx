@@ -1,0 +1,1 @@
+export default function BookingsPage() { return <div className="p-4"><h1>My Bookings</h1><p>Manage your booking requests here.</p></div> }
