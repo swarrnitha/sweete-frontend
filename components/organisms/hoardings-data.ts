@@ -24,7 +24,7 @@ export const sweets: Sweet[] = [
   {
     id: 1001, name: "Motichoor Ladoo Box", shop: "Bikanervala Sweets", category: "Indian Mithai",
     price: 349, originalPrice: 449, rating: 4.8, reviews: 1243, deliveryTime: "25-30 min",
-    tag: "Bestseller", image: "https://images.unsplash.com/photo-1605020420620-20c943cc4669?w=600&h=400&fit=crop",
+    tag: "Bestseller", image: "https://placehold.co/600x400/5C3317/F5E6D3?text=Motichoor+Ladoo",
     description: "Soft and melt-in-mouth motichoor ladoo made from pure ghee.",
     city: "Delhi", location: "Connaught Place, Delhi", area: "Connaught Place", isVeg: true, isBestseller: true, weight: "500g",
     customization: ["Small Box (250g)", "Regular Box (500g)", "Large Box (1kg)"]
@@ -40,7 +40,7 @@ export const sweets: Sweet[] = [
   {
     id: 1003, name: "Kaju Katli Premium", shop: "Haldirams", category: "Indian Mithai",
     price: 599, originalPrice: 749, rating: 4.7, reviews: 987, deliveryTime: "20-25 min",
-    tag: "Premium", image: "https://images.unsplash.com/photo-1589119908959-02ab4579fb26?w=600&h=400&fit=crop",
+    tag: "Premium", image: "https://placehold.co/600x400/5C3317/F5E6D3?text=Kaju+Katli",
     description: "Silver-coated premium kaju katli made from finest cashew nuts.",
     city: "Delhi", location: "Chandni Chowk, Delhi", area: "Chandni Chowk", isVeg: true, isBestseller: false, weight: "500g",
     customization: ["250g Box", "500g Box", "1kg Box"]
@@ -48,7 +48,7 @@ export const sweets: Sweet[] = [
   {
     id: 1004, name: "Gulab Jamun Special", shop: "Aggarwal Sweets", category: "Indian Mithai",
     price: 199, rating: 4.6, reviews: 1876, deliveryTime: "15-20 min",
-    tag: "Popular", image: "https://images.unsplash.com/photo-1666190024550-3d3c7ba70a57?w=600&h=400&fit=crop",
+    tag: "Popular", image: "https://placehold.co/600x400/5C3317/F5E6D3?text=Gulab+Jamun",
     description: "Hot and syrupy gulab jamuns made fresh every hour.",
     city: "Chennai", location: "T Nagar, Chennai", area: "T Nagar", isVeg: true, isBestseller: true, weight: "400g",
     customization: ["4 Pieces", "6 Pieces", "12 Pieces"]
@@ -72,7 +72,7 @@ export const sweets: Sweet[] = [
   {
     id: 1007, name: "Rasgulla Delight", shop: "Bengali Sweets House", category: "Indian Mithai",
     price: 249, rating: 4.5, reviews: 876, deliveryTime: "20-25 min",
-    tag: "Popular", image: "https://images.unsplash.com/photo-1645177628172-a94c1f96e6db?w=600&h=400&fit=crop",
+    tag: "Popular", image: "https://placehold.co/600x400/5C3317/F5E6D3?text=Rasgulla",
     description: "Soft and spongy rasgullas soaked in light sugar syrup.",
     city: "Kolkata", location: "Park Street, Kolkata", area: "Park Street", isVeg: true, isBestseller: false, weight: "500g",
     customization: ["4 Pieces", "8 Pieces", "16 Pieces"]
@@ -88,7 +88,7 @@ export const sweets: Sweet[] = [
   {
     id: 1009, name: "Jalebi Rabdi Special", shop: "Old Delhi Sweets", category: "Indian Mithai",
     price: 179, rating: 4.6, reviews: 1543, deliveryTime: "15-20 min",
-    tag: "Hot & Fresh", image: "https://images.unsplash.com/photo-1609167830220-7164aa360951?w=600&h=400&fit=crop",
+    tag: "Hot & Fresh", image: "https://placehold.co/600x400/5C3317/F5E6D3?text=Jalebi+Rabdi",
     description: "Crispy hot jalebis served with rich and creamy rabdi.",
     city: "Delhi", location: "Chandni Chowk, Delhi", area: "Chandni Chowk", isVeg: true, isBestseller: true, weight: "300g",
     customization: ["Single Plate", "Double Plate", "Family Pack"]
@@ -104,7 +104,7 @@ export const sweets: Sweet[] = [
   {
     id: 1011, name: "Mysore Pak Premium", shop: "Sri Krishna Sweets", category: "Indian Mithai",
     price: 299, rating: 4.7, reviews: 765, deliveryTime: "20-25 min",
-    tag: "Traditional", image: "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?w=600&h=400&fit=crop",
+    tag: "Traditional", image: "https://placehold.co/600x400/5C3317/F5E6D3?text=Mysore+Pak",
     description: "Authentic Mysore pak made with generous amounts of pure ghee.",
     city: "Chennai", location: "Mylapore, Chennai", area: "Mylapore", isVeg: true, isBestseller: false, weight: "400g",
     customization: ["200g Box", "400g Box", "1kg Box"]

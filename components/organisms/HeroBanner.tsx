@@ -37,7 +37,7 @@ export const HeroBanner = () => {
 
   return (
     <section className="relative min-h-[85vh] bg-gradient-to-br from-[#3B1F0B] via-[#5C3317] to-[#8B5E3C] flex items-center overflow-hidden">
-      <div className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1486427944544-d2c246c4df14?q=80&w=2070')] bg-cover bg-center opacity-10" />
+      <div className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=2070&h=800&fit=crop')] bg-cover bg-center opacity-10" />
       <div className="absolute inset-0 bg-gradient-to-t from-[#3B1F0B]/80 via-transparent to-transparent" />
       <div className="container mx-auto px-4 relative z-10">
         <motion.div

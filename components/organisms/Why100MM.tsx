@@ -57,7 +57,7 @@ export const WhySweeTe = () => (
           transition={{ duration: 0.7 }}
           className="relative"
         >
-          <img src="https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=800&h=600&fit=crop" alt="Sweets collection" className="w-full h-64 md:h-96 object-cover rounded-3xl" />
+          <img src="https://images.unsplash.com/photo-1488477181946-6428a0291777?w=800&h=600&fit=crop" alt="Sweets collection" className="w-full h-64 md:h-96 object-cover rounded-3xl" />
           <motion.div
             initial={{ opacity: 0, y: 20 }}
             whileInView={{ opacity: 1, y: 0 }}
