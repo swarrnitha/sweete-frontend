@@ -9,8 +9,8 @@ const cities = [
   { name: "Delhi", count: "150+ sweet shops", image: "https://images.unsplash.com/photo-1585135497273-1a86b09fe70e?w=400&h=500&fit=crop" },
   { name: "Bangalore", count: "95+ sweet shops", image: "https://images.unsplash.com/photo-1596178065887-1198b6148b2b?w=400&h=500&fit=crop" },
   { name: "Chennai", count: "80+ sweet shops", image: "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?w=400&h=500&fit=crop" },
-  { name: "Kolkata", count: "110+ sweet shops", image: "https://placehold.co/400x500/5C3317/F5E6D3?text=Kolkata" },
-  { name: "Hyderabad", count: "70+ sweet shops", image: "https://placehold.co/400x500/5C3317/F5E6D3?text=Hyderabad" },
+  { name: "Kolkata", count: "110+ sweet shops", image: "https://images.pexels.com/photos/31550557/pexels-photo-31550557.jpeg?auto=compress&cs=tinysrgb&w=400&h=500&fit=crop" },
+  { name: "Hyderabad", count: "70+ sweet shops", image: "https://images.pexels.com/photos/29152632/pexels-photo-29152632.jpeg?auto=compress&cs=tinysrgb&w=400&h=500&fit=crop" },
 ];
 
 export const FeaturedLocations = () => {
